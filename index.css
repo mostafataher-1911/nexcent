@@ -20,6 +20,20 @@
    
     width: 200px;
 }
+@media (max-width: 575.98px){
+   .im1{
+     margin-top: 50px;
+   }
+   .im2{
+      width: 200px;
+   }
+   .help .tt{
+      position: relative;
+      top: 0px;
+      right: 0px;
+      width: 33px;
+   }
+}
 @media (min-width: 576px) { 
  .ss{
     width: 323px;
@@ -89,7 +103,7 @@
  }
  .ii{
     position: relative;
-    left: 15px;
+    left: 10px;
     top: 3px;
  }
  .footer{
